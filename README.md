@@ -1,1 +1,3 @@
-＃　Ｈｉ，　Ｉ’ｍ　｛ＭｅｉＹｕ，　Ｃｈｅｎ｝Ｃｈｅｎ｝
+# Hi, I,m {May}
+### {}
+### {School of Information and Design}
