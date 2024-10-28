@@ -1,3 +1,4 @@
 # Hi, I,m May
-## {Student}
+---
+### {Student}
 ### {School of Information and Design}
