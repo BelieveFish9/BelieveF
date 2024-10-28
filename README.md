@@ -1,3 +1,3 @@
-# Hi, I,m {May}
+# Hi, I,m May
 ### {}
 ### {School of Information and Design}
